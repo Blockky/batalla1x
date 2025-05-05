@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57814508-7a5d-4a99-83bf-3736273b0e1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/batalla2x.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Cat 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Cat 01-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Cat 01-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Dog 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Dog 01-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Animal/Dog 01-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Boss/Boss 01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 02-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 03-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 04-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 05-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 06-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 07-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 08-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 09-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 10-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 11-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 12-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 13-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 14-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 15-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 16-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/Enemy 17-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/araña.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/fantasma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Enemy/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 01-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 01-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 01-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 02-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 02-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 02-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 02-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 03-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 03-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 03-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 03-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 04-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 04-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 04-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 04-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 05-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 05-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 05-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 05-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 06-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 06-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 06-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 06-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 07-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 07-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 07-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 07-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 08-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 08-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 08-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 08-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 09-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 09-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 09-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 09-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 10-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 10-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 10-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 10-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 11-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 11-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 11-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 11-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 12-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 12-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 12-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 12-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 13-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 13-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 13-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 13-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 14-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 14-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 14-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 14-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 15-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 15-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 15-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 15-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 16-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 16-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 16-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 16-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 17-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 17-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 17-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 17-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 18-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 18-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 18-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 18-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 19-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 19-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 19-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 19-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 20-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 20-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 20-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 20-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 21-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 21-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 21-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 21-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 22-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 22-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 22-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 22-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 23-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 24-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Female/Female 25-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 01-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 01-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 01-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 02-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 02-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 02-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 02-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 03-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 03-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 03-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 03-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 04-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 04-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 04-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 04-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 05-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 05-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 05-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 05-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 06-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 06-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 06-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 06-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 07-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 07-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 07-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 07-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 08-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 08-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 08-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 08-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 09-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 09-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 09-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 09-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 10-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 10-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 10-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 10-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 11-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 11-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 11-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 11-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 12-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 12-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 12-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 12-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 13-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 13-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 13-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 13-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 14-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 14-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 14-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 14-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 15-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 15-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 15-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 15-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 16-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 16-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 16-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 16-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 17-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 17-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 17-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 17-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/Male 18-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Male/main-character.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Shadow/Shadow  3 Animal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Shadow/Shadow  4 Boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Shadow/Shadow  5 Boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Shadow/Shadow 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Shadow/Shadow 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 01-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 01-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 01-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 01-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 02-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 02-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 02-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 02-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 03-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 03-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 03-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 03-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 04-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 04-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 04-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 04-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 05-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 05-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 05-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 05-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 06-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 06-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 06-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 06-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 07-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 07-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 07-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/characters/Soldier/Soldier 07-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/data/characters_dictionary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/data/item_dictionary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/data/player_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/dungeon_lvl_three_maze.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/farmhouse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/graveyard_dungeon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/graveyard_dungeon_second_level.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/main_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/salaExp_I.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/maps/tienda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/misc/shiny-stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/misc/vida.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sample_map/samplemap.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/Sounds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/daño.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/pasos.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Deco_Mix.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Deco_Mix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Dungeon Tile Set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Dungeon tileset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/LightShadow_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/LightShadow_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Puzzle_PH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/Puzzle_PH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Dirt_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Dirt_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Flower_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Flower_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Grass_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Grass_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Wall-Up_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Wall-Up_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]WaterFall_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]WaterFall_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Water_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[A]Water_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[Base]BaseChip_pipo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/[Base]BaseChip_pipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/antorchas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/armas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/estanteriaArmas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/estanteriaSuministros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/input_prompts_kenney.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/rocas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/rocas2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/suelos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/wall_exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tilesets/walls_exp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/decisiones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/draw_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/load_game_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/message_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/character_sprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/path_following_sprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/peligros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/player_sprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/sprites/random_walking_sprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/battle_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/game_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/inventory_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/loading_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/main_menu_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/player_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpg/views/settings_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wglzLIvMrBRILy635rc6ITWcsP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.__main__.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Blocky/PycharmProjects/batalla2x/resources",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blocky\PycharmProjects\batalla2x\resources" />
+      <recent name="C:\Users\Blocky\PycharmProjects\batalla2x" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Blocky\PycharmProjects\batalla2x" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="batalla2x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rpg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rpg/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__main__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57814508-7a5d-4a99-83bf-3736273b0e1d" name="Changes" comment="" />
+      <created>1746471358430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746471358430</updated>
+    </task>
+    <servers />
+  </component>
+</project>

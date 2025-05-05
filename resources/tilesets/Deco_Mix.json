@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/tilesets\/Deco_Mix.png",
+ "imageheight":320,
+ "imagewidth":256,
+ "margin":0,
+ "name":"Deco_Mix",
+ "spacing":0,
+ "tilecount":80,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
