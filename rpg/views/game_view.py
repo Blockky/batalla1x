@@ -270,7 +270,7 @@ class GameView(arcade.View):
         #Establece la vida
         self.hp = constants.HPmax
 
-        self.slime = Jefe(r"C:\Users\Sergio\Desktop\Slime.webp", 0.5, 100, 100, 50)
+        self.slime = Jefe(r"../resources/characters/Boss/slime.webp", 0.5, 100, 100, 50)
         self.peligro_sprite_list.append(self.slime)
 
 
