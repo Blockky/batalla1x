@@ -23,3 +23,16 @@ class Proyectil(Peligro):      #Los proyectiles son peligros que desaparecen tra
 
         if arcade.check_for_collision_with_list(self, self.objetivo):
             self.impactado = True
+
+
+class Jefe(Peligro):
+    def __init__(self, image_path, scale, center_x, center_y, boss_hp):
+        super().__init__(image_path, scale, center_x, center_y)
+        self.boss_hp = boss_hp
+        if self.boss_hp <= 0:
+            print("morí")
+
+    def update(self):
+        if self.boss_hp <= 0:
+            print("morí")
+            self.boss_hp = 1

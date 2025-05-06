@@ -17,7 +17,7 @@ from rpg.constants import INMO_DELAY
 from rpg.decisiones import decision
 
 from rpg.message_box import MessageBox
-from rpg.sprites.peligros import Proyectil, Peligro
+from rpg.sprites.peligros import Proyectil, Peligro, Jefe
 
 from rpg.sprites.player_sprite import PlayerSprite
 from rpg.views.main_menu_view import MainMenuView
@@ -270,6 +270,9 @@ class GameView(arcade.View):
         #Establece la vida
         self.hp = constants.HPmax
 
+        self.slime = Jefe(r"C:\Users\Sergio\Desktop\Slime.webp", 0.5, 100, 100, 50)
+        self.peligro_sprite_list.append(self.slime)
+
 
     def load_hotbar_sprites(self):
         """Load the sprites for the hotbar at the bottom of the screen.
@@ -373,6 +376,7 @@ class GameView(arcade.View):
                     scale=0.8,
                 ).draw()
 
+            self.peligro_sprite_list.draw()
             # Draw the player
             self.player_sprite_list.draw()
 
@@ -437,6 +441,15 @@ class GameView(arcade.View):
                 arcade.play_sound(damage_sound,volume= 0.5 * SettingsView.v_ef)
                 self.inmortal = True
 
+    def attack(self,boss,damage):
+        boss.boss_hp -= damage
+        print(boss.boss_hp)
+
+    def perdonar(self):
+        print("hablaste")
+
+    def mochila(self):
+        print("Work in progres")
 
 
     def on_update(self, delta_time):
@@ -651,6 +664,8 @@ class GameView(arcade.View):
                 self.enable_debug_menu()
             else:
                 self.disable_debug_menu()
+        elif key == arcade.key.P:
+            decision(self.opciones,lambda:self.attack(self.slime,20), lambda:self.perdonar(), lambda:self.mochila())
 
 
     def close_message_box(self):
